@@ -1,0 +1,33 @@
+header{
+  text-align:center;
+  color:#b18f6a;
+
+}
+
+body{
+  background-color:#5c4730;
+  text-align:center;
+  font-family: "Courier New"
+
+}
+
+nav{
+  color:#efe8e1;
+}
+
+a{
+    color:#93714d;
+}
+
+p{
+  text-align:center;
+  color:#dfd2c3;
+}
+
+h1{
+  background-color: #816344;
+}
+
+figcaption{
+  color:#dfd2c3;
+}
